@@ -2,6 +2,8 @@
 
 ## 宮地陽大だよ
 
+//↑これは適当にしました。
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
